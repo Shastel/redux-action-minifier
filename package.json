@@ -2,7 +2,7 @@
   "name": "redux-action-minifier",
   "version": "0.0.2",
   "description": "An minifier for Flux Standart action",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shastel/redux-action-minifier.git"
